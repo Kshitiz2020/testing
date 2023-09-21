@@ -11,4 +11,4 @@
   - `git remote add origin https://github.com/margittennosaar/react23s_testing.git`
 - Try not to make changes in GH
 
-FOXES FOREVER!
+# Test project of GIT
